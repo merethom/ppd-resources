@@ -1,4 +1,4 @@
-# ppd-resources
+# Personal and Professional Development Resources for Designers
 
 
 
